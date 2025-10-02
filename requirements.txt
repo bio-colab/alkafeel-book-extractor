@@ -1,0 +1,17 @@
+# Al-Kafeel Library Book Extractor Requirements
+# Created by Eylias Sharar
+
+playwright>=1.40.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+requests>=2.31.0
+click>=8.1.7
+tqdm>=4.66.1
+colorama>=0.4.6
+PyPDF2>=3.0.1
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.1
+black>=23.9.1
+flake8>=6.1.0

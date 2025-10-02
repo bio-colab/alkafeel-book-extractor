@@ -1,0 +1,23 @@
+# Example Book URLs for Al-Kafeel Library
+# Created by Eylias Sharar
+# 
+# This file contains sample URLs from Al-Kafeel Digital Library
+# that can be used for testing the extractor.
+#
+# Usage:
+#   python main.py batch-extract example_urls.txt
+#
+# Format: One URL per line
+# Lines starting with # are ignored
+
+# Sample book - Islamic History Research
+https://library.alkafeel.net/dic/book/?e=38c15-44c77-06464-07b96-de2b7-82795-3b
+
+# Add more URLs here as needed
+# https://library.alkafeel.net/dic/book/?e=ANOTHER_BOOK_ID
+# https://library.alkafeel.net/dic/book/?e=YET_ANOTHER_BOOK_ID
+
+# Notes:
+# - Replace BOOK_ID with actual book IDs from the library
+# - Ensure URLs are from library.alkafeel.net domain
+# - Test URLs in browser before adding them here
